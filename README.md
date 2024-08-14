@@ -19,6 +19,13 @@ To set up the environment for this project, ensure you have Python 3.11 installe
     ```
 
 # Project Motivation<a name="ProjectMotivation"></a>
+To understand why customers choose to leave a contract or service, gaining deeper insights into their decision-making process.
+1. Predictive Accuracy: How well can customer churn be predicted using the available factors?
+2. Model Performance: Which model achieves the best F1 score for predicting churn?
+3. Baseline Comparison: Is the model’s performance better than random guessing?
+4. Contributing Factors: What factors contribute the most to customer churn?
+5. Optimal Solutions: Can an optimal package be developed to reduce customer churn?
+
 # File descriptions <a name="FileDescriptions"></a>
 # Results <a name="Results"></a>
 # Licensing, Authors, Acknowledgements <a name="LAA"></a>
