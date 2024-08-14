@@ -1,8 +1,31 @@
-# Kaggle-intermediate-machine-learning
-Predicting customer churn for Telco customers, another dataset that was found on Kaggle.
+# Table of Contents
+1. [Installation](#Installation)
+2. [Project Motivation](#ProjectMotivation)
+3. [File descriptions](#FileDescriptions)
+4. [Results](#Results)
+5. [Licensing, Authors, Acknowledgements](#LAA)
 
-Used a range of topics from the course including one hot encoding and dealing with missing values.
-A range of different models and techniques were used to find the minimum f1_score for the dataset.
-F1_score was used to as precision and recall optimisation would depend on how customers would be incentivised to stay after being identified.
-Precision would be better for more expensive incentives and recall used for cheaper ones.
-The most usefull parameters for churn prediction were also identified with the columns that had the greatest decrease in f1_score when they were removed from the model. 
+# Installation <a name="Installation"></a>
+To set up the environment for this project, ensure you have Python 3.11 installed. You can install the required packages using `pip`. Follow the steps below:
+
+1. **Clone the repository**:
+    ```
+    git clone https://github.com/Benedictgr97/Customer-churn-prediction.git
+    cd Customer-churn-prediction
+    ```
+2. **Install the packages from requirments file**:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+# Project Motivation<a name="ProjectMotivation"></a>
+To understand why customers choose to leave a contract or service, gaining deeper insights into their decision-making process.
+1. Predictive Accuracy: How well can customer churn be predicted using the available factors?
+2. Model Performance: Which model achieves the best F1 score for predicting churn?
+3. Baseline Comparison: Is the model’s performance better than random guessing?
+4. Contributing Factors: What factors contribute the most to customer churn?
+5. Optimal Solutions: Can an optimal package be developed to reduce customer churn?
+
+# File descriptions <a name="FileDescriptions"></a>
+# Results <a name="Results"></a>
+# Licensing, Authors, Acknowledgements <a name="LAA"></a>
