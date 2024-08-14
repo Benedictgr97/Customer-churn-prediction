@@ -6,7 +6,6 @@
 5. Licensing, Authors, Acknowledgements
 
 # Installation
-###Project-motivation
 # Project Motivation
 # File descriptions
 # Results
