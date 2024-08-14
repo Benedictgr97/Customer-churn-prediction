@@ -13,6 +13,10 @@ To set up the environment for this project, ensure you have Python 3.11 installe
     git clone https://github.com/Benedictgr97/Customer-churn-prediction.git
     cd Customer-churn-prediction
     ```
+2. **Install the packages from requirments file**:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 # Project Motivation<a name="ProjectMotivation"></a>
 # File descriptions <a name="FileDescriptions"></a>
