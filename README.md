@@ -35,4 +35,5 @@ There are 3 files above used for this project with inly 2 required if you have t
 
 
 # Results <a name="Results"></a>
+The main findings of the code can be found at the post available [here](link for later).
 # Licensing, Authors, Acknowledgements <a name="LAA"></a>
