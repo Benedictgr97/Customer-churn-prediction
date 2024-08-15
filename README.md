@@ -27,5 +27,12 @@ To understand why customers choose to leave a contract or service, gaining deepe
 5. Optimal Solutions: Can an optimal package be developed to reduce customer churn?
 
 # File descriptions <a name="FileDescriptions"></a>
+There are 3 files above used for this project with inly 2 required if you have the right prerequisites installed
+
+**Teleco customer churn.ipynb** - The main script used to predict churn, test the optimal model and understand the factors that affect churn.
+**WA_Fn-UseC_-Telco-Customer-Churn.csv** The customer churn data.
+**requirements.txt** requirements file used for the above. Not needed if you already have the prerequisites. 
+
+
 # Results <a name="Results"></a>
 # Licensing, Authors, Acknowledgements <a name="LAA"></a>
