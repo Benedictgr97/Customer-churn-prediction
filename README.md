@@ -29,9 +29,9 @@ To understand why customers choose to leave a contract or service, gaining deepe
 # File descriptions <a name="FileDescriptions"></a>
 There are 3 files above used for this project with inly 2 required if you have the right prerequisites installed
 
-**Teleco customer churn.ipynb** - The main script used to predict churn, test the optimal model and understand the factors that affect churn.
-**WA_Fn-UseC_-Telco-Customer-Churn.csv** The customer churn data.
-**requirements.txt** requirements file used for the above. Not needed if you already have the prerequisites. 
+**Teleco customer churn.ipynb** - The main script used to predict churn, test the optimal model and understand the factors that affect churn.\n
+**WA_Fn-UseC_-Telco-Customer-Churn.csv** The customer churn data.\n
+**requirements.txt** requirements file used for the above. Not needed if you already have the prerequisites. \n
 
 
 # Results <a name="Results"></a>
