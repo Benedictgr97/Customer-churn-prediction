@@ -27,5 +27,14 @@ To understand why customers choose to leave a contract or service, gaining deepe
 5. Optimal Solutions: Can an optimal package be developed to reduce customer churn?
 
 # File descriptions <a name="FileDescriptions"></a>
+There are 3 files above used for this project with inly 2 required if you have the right prerequisites installed
+
+**Teleco customer churn.ipynb** - The main script used to predict churn, test the optimal model and understand the factors that affect churn.<br />
+**WA_Fn-UseC_-Telco-Customer-Churn.csv** The customer churn data.<br />
+**requirements.txt** requirements file used for the above. Not needed if you already have the prerequisites. <br />
+
+
 # Results <a name="Results"></a>
+The main findings of the code can be found at the post available [here](https://medium.com/@benedictgrant97/why-do-customer-leave-a-dive-into-telecommunications-churn-ea68ae33fb1b).
 # Licensing, Authors, Acknowledgements <a name="LAA"></a>
+The link to the data for these customers can be found [here](https://www.kaggle.com/datasets/blastchar/telco-customer-churn). Feel free to use all other code in the notbook and reach out to me if you have any questions.
